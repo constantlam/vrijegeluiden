@@ -1,0 +1,29 @@
+---
+date: 2020-01-14T11:25:05-04:00
+description: "Neem"
+featured_image: "/images/niveveh.jpg"
+tags: ["planten"]
+title: "Azadirachta indica"
+---
+
+bron: link:https://nl.wikipedia.org/wiki/Azadirachta_indica[Wikipedia]
+
+Azadirachta indica, ook bekend als neem (uitspraak: niem), is een boom (of struik) uit de familie Meliaceae. De soort wordt in India gebruikt voor medicinale toepassingen. Hiervoor worden alle delen van de plant gebruikt, maar vooral de neemolie die uit de vruchten geperst wordt.
+
+== Beschrijving
+
+Het is een snelgroeiende en meestal groenblijvende boom, die gemiddeld vijftien tot twintig meter hoog wordt en in uitzonderlijke gevallen tot veertig meter hoogte kan bereiken. De boom kan tot tweehonderd jaar oud worden. De stam is relatief kort en zelden langer dan drie meter. De takken zijn wijd gespreid. De kroon is rond of ovaal met dichte bladgroei. Bij grote droogte kan de boom zijn blad verliezen. Het wortelsysteem bestaat uit een hoofdwortel die soms twee keer zo diep de grond in gaat als de hoogte van de boom en een wijder vertakt wortelstelsel. De buitenste lagen van het hout zijn licht gekleurd en de kern is roodachtig.
+
+Het samengestelde blad van twintig tot veertig centimeter lengte bestaat uit eenendertig oneven geplaatste bladspitsen van zo'n zeven centimeter lengte.
+
+De bloeivorm bestaat uit samengestelde pluimen tot vijfentwintig centimeter lengte waaraan honderdvijftig tot tweehonderdvijftig kleine bloemetjes. De welriekende bloemetjes hebben een omvang van ongeveer een centimeter. Neem is eenhuizig en vormt dus zowel mannelijke als vrouwelijke bloemen aan dezelfde plant.
+
+Wanneer de boom vier jaar oud is kan zij voor het eerst vrucht dragen. Na tien jaar kan zij zo'n vijftig kilo vruchten leveren. De vrucht is een olijfachtige steenvrucht met een dunne schil, bleekgeel vruchtvlees en een bitterzoete smaak.
+
+== Verspreiding
+
+Neem is door menselijke verspreiding tegenwoordig op vrijwel alle continenten wel te vinden. De soort wordt veel aangeplant in gebieden met tropisch en subtropisch klimaat en staat in verschillende landen onder verschillende namen bekend. Plaatselijk geldt de plant als een invasieve soort.
+
+== Gebruik
+
+Het gebruik van neemprodukten in de geneeskunst stoelt in India op een lange traditie. Buiten India wordt de plant veel gebruikt voor het bereiden van een biologisch insecticide: azadirachtine. De soort trekt wereldwijd aandacht vanwege zijn medicinale en antibiotische eigenschappen en is het onderwerp van wetenschappelijk onderzoek en publicaties. Zij is in het westen mede bekend vanwege de patentstrijd die er over neemprodukten gevoerd werd. Neem wordt daarom regelmatig genoemd als voorbeeld in verband met biopiraterij.

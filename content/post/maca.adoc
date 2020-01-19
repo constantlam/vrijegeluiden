@@ -1,0 +1,13 @@
+---
+date: 2020-01-02T11:14:48-04:00
+description: "Maca"
+featured_image: "/images/de-paleizen-van-nimrud_0.jpg"
+tags: ["planten"]
+title: "Lepidium meyenii (maca)"
+---
+
+bron: link:https://nl.wikipedia.org/wiki/Lepidium_meyenii[Wikipedia]
+
+Lepidium meyenii, gekend onder de naam maca en ook wel Peruaanse ginseng genoemd, is een kruidachtige tweejarige plant afkomstig uit het Andesgebergte in Peru. De macawortel wordt in natuurwinkels verkocht omwille van zijn vermeende geneeskrachtige werking en effect op het voortplantingsstelsel.
+
+Maca bevat grote hoeveelheden aan mineralen, vitamine B, enzymen, magnesium en essentiële aminozuren. De Peruviaanse macawortels groeien in drie basiskleuren. Deze kleuren zijn geel, rood en zwart.

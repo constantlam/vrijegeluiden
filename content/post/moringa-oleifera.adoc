@@ -1,0 +1,41 @@
+---
+date: 2020-01-09T10:58:08-04:00
+description: "Een boom met vele toepassingen"
+featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+tags: ["planten"]
+title: "Moringa oleifera"
+---
+
+bron: link:https://nl.wikipedia.org/wiki/Moringa_oleifera[Wikipedia]
+
+*Moringa oleifera* is een boom uit de familie _Moringaceae_. De soort komt vooral voor in tropische en subtropische gebieden met een steppeklimaat.
+
+Moringa oleifera staat ook wel bekend als de 'wonderboom' vanwege de
+hoge voedingswaarde en medicinale eigenschappen van de bladeren en
+vruchten van de boom, maar heeft niet echt een officiële Nederlandse
+naamfootnote:[zo is dat]. Zo worden de bladeren in Zuid-Afrika gebruikt om
+ondervoeding tegen te gaan. Door deze eigenschappen wordt Moringa
+oleifera op grote schaal gekweekt in plantages.
+
+== Achtergrond
+
+Moringa oleifera groeit het beste op droge zandgrond. De boom is goed bestand tegen droogte en groeit relatief snel.
+
+De plant komt van oorsprong voor in de heuvels aan de zuidelijke kant van de Himalaya in Noordwest-India, maar wordt inmiddels ook gekweekt op plantages in Afrika, India, Indonesië, Maleisië, Mexico, de Filipijnen, Midden- en Zuid-Amerika en Sri Lanka.
+
+De soort wordt doorgaans gezien als de bruikbaarste boom ter wereld, omdat bijna elk onderdeel van de boom kan worden gebruikt als voedsel of voor andere nuttige doeleinden.
+
+== Voedingswaarde
+
+De nog niet volgroeide, groene vruchten van de boom worden het meest gebruikt. In Zuid- en Zuidoost-Azië worden ze in veel gerechten verwerkt. De zaden uit de volgroeide vruchten kunnen worden gegeten als noten of erwten. Tevens kan uit de zaden 38 tot 40% plantaardige olie worden gewonnen, genaamd behenolie.
+
+De bloemen van de boom zijn, indien gekookt, ook eetbaar. De wortel kan worden vermalen en gebruikt als condiment.
+
+Boven- en onderzijde van het dubbelgeveerde blad van Moringa oleifera.
+De bladeren van de boom zijn rijk aan onder andere bètacaroteen, vitamine C, proteïne, ijzer en kalium.[1] De bladeren kunnen worden gekookt als spinazie, of gedroogd en vermalen worden toegevoegd aan maaltijden.
+
+Vanwege de sterke voedingswaarde van de boom, wordt Moringa oleifera op steeds grotere schaal ingezet voor de bestrijding van ondervoeding in ontwikkelingslanden. Onder andere Trees for Life, Church World Service, Educational Concerns for Hunger Organization, en Volunteer Partnerships for West Africa gebruiken de boom voor dit doel.
+
+== Andere eigenschappen
+
+De zaden van Moringa oleifera kunnen worden gebruikt om water te zuiveren, daar ze in staat zijn tot 98 procent van onzuiverheden en micro-organismen uit water te halen.footnote:['Wonderboom' helpt tegen ondervoeding in Zuid-Afrika, artikel uit De Morgen, gepubliceerd op 26 januari 2012] De bladeren en vruchten kunnen worden verwerkt in medicijnen.
